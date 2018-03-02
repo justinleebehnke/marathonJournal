@@ -1,0 +1,45 @@
+.v-model {
+  background: #F0C755;
+}
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    padding: 20px 100px 0px 100px;
+    background: #F0C755;
+}
+
+button {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1em;
+    color: #5C110F;
+}
+
+textarea {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1em;
+    width: 100%;
+    max-width: 500px;
+    height: 100px;
+    color: #5C110F;
+}
+form input {
+  color: #5C110F;
+}
+img {
+  max-width: 50%;
+}
+h1 {
+  color: #5C110F;
+}
+h2 {
+  color: #5C110F;
+}
+h3 {
+  color: #5C110F;
+}
+p {
+  color: #5C110F;
+}
+form {
+  color: #5C110F;
+}
